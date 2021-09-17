@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding-top: 50px;
+}
+/* Slider Section */
+.buy-now{
+    background: rgb(56, 56, 56);
+    color: white;
+}
+.slider-section img{
+    width: 100%;
+}
+/* Phone section */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.category-section {
+    margin-bottom: 80px;
+}
+
+.title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+.category-item {
+    padding:  20px 20px;
+}
